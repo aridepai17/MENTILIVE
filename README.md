@@ -1,2 +1,6 @@
-# MENTILIVE
-Interactive live polling and Q&amp;A platform. Engage your audience with live polls and Q&amp;As.
+# MentiLive
+
+**MentiLive** is an interactive live polling and Q&A platform.  
+Engage your audience with real-time polls, quizzes, and questions.
+
+> 🚧 Currently under development.
